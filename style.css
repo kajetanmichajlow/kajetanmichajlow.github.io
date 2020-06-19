@@ -1,12 +1,12 @@
 body {
-    background-color: pink
+    background-color: rgb(233, 233, 233)
   }
 
   .secondary-color {
-    background-color: rgb(62, 62, 247);
+    background-color: rgb(29, 122, 204);
     color: white
   }
 
   .secondary-text-color {
-    color: rgb(240, 6, 135);
+    color: rgb(33, 90, 204);
   }
